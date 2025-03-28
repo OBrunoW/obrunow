@@ -23,8 +23,8 @@ I'm a passionate developer with a love for technology and innovation. I have exp
         <a href="https://isocpp.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
         </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+        <a href="https://www.go.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="GO" width="40" height="40"/>
 </a>
       </p>
     </td>
@@ -33,9 +33,6 @@ I'm a passionate developer with a love for technology and innovation. I have exp
       <p align="left">
         <a href="https://flutter.dev" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-        </a>
-        <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/>
         </a>
       </p>
     </td>
@@ -47,9 +44,6 @@ I'm a passionate developer with a love for technology and innovation. I have exp
         </a>
         <a href="https://www.postman.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-        </a>
-        <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
         </a>
         <a href="https://git-scm.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -91,15 +85,6 @@ I'm a passionate developer with a love for technology and innovation. I have exp
     </td>
   </tr>
 </table>
-
-<p>
-    <a href="https://github-readme-stats-alpha-roan-66.vercel.app/api/top-langs?username=OBrunoW&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only">
-        <img align="center" src="https://github-readme-stats-alpha-roan-66.vercel.app/api/top-langs?username=OBrunoW&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages - Dark Mode" />
-    </a>
-    <a href="https://github-readme-stats-alpha-roan-66.vercel.app/api/top-langs?username=OBrunoW&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only">
-        <img align="center" src="https://github-readme-stats-alpha-roan-66.vercel.app/api/top-langs?username=OBrunoW&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="Top Languages - Light Mode" />
-    </a>
-</p>
 
 ## Contact
 
