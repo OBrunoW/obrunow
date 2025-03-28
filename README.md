@@ -105,10 +105,6 @@ This profile README uses assets and resources from the following amazing reposit
 
 - **[devicons/devicon](https://github.com/devicons/devicon):** Icons for programming languages, frameworks, and tools.
 - **[vectorlogo.zone](https://www.vectorlogo.zone/):** Logos and icons for various technologies and tools.
-- **[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats):** Dynamic GitHub stats and top languages widget.
-- **[denvercoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats):** Streak stats for GitHub contributions.
-- **[Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph):** Contribution activity graph.
-- **[Platane/snk](https://github.com/Platane/snk):** Snake game animation for the contribution grid.
 
 ---
 
