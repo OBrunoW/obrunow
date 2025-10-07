@@ -86,10 +86,16 @@ I'm a passionate developer with a love for technology and innovation. I have exp
   </tr>
 </table>
 
-## Contact
+<br>
+
+<p align="center">
+  <img align="left" alt="GitHub stats" height="200px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=OBrunoW" />
+</p>
 
 - **LinkedIn:** [Bruno Santos](https://www.linkedin.com/in/brunowsantos/)
 - **Email:** brunowilsoneng@gmail.com
+
+  <br clear="left"/>
 
 ## Fun Facts
 
