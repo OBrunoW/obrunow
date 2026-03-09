@@ -90,14 +90,3 @@ Minha trajetória começou com sistemas embarcados e eletrônica na Engenharia M
 | **Embarcados & IoT** | ESP32, Firmware C/C++, IIoT, Sensoriamento |
 | **Orquestração** | Temporal, Kafka |
 | **Monitoramento** | Grafana, Loki |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=OBrunoW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBrunoW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" />
-
-</div>
