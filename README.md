@@ -91,22 +91,6 @@ Minha trajetória começou com sistemas embarcados e eletrônica na Engenharia M
 | **Orquestração** | Temporal, Kafka |
 | **Monitoramento** | Grafana, Loki |
 
-</details>
-
----
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Tipo | Descrição |
-|---------|------|-----------|
-| **Wetzel Backend Platform** | `Backend` | Arquitetura backend centralizada para automações industriais e IIoT — Go, FastAPI, PostgreSQL, Docker |
-| **K2M RPA Platform** | `Backend` | Plataforma de automação e integração de dados para e-commerce — Go + Python, Kafka, Temporal |
-| **Message Plus** | `Backend` | Backend para automação de WhatsApp e bots com IA — Go, PostgreSQL, Kafka, Grafana |
-| [**Wetzel Smart**](https://play.google.com/store/apps/details?id=com.program.wetzel_master_app) | `Mobile` | App oficial de controle de iluminação industrial via IIoT — Flutter, Bluetooth |
-| [**PrintApp**](https://play.google.com/store/apps/details?id=br.com.printtool.app.printpdv) | `Mobile` | App Android para edição e impressão de layouts térmicos — Java, MVVM |
-
-> A maioria dos repositórios são privados (projetos de empresas). O portfólio com mais detalhes está [aqui](https://obrunow.github.io/portfolio/).
-
 ---
 
 ### 📊 GitHub Stats
