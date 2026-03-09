@@ -117,9 +117,3 @@ Minha trajetória começou com sistemas embarcados e eletrônica na Engenharia M
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBrunoW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" />
 
 </div>
-
----
-
-<div align="center">
-<sub>⚡ Backend Engineer focado em construir sistemas que funcionam de verdade.</sub>
-</div>
