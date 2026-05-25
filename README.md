@@ -2,7 +2,7 @@
 
 # Bruno Santos
 
-**Backend Engineer** · Go · Sistemas Distribuídos · APIs
+**Software Developer** · Go · Sistemas Distribuídos · APIs
 
 Joinville, SC — Brasil
 
